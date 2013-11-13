@@ -1,3 +1,3 @@
 btaapp
 ======
-This is authored by Simon with the help of Jon
+This is authored by Simon with the help of Jon (NOT)
